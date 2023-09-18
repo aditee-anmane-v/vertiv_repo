@@ -1,2 +1,1 @@
-PUT ONE RECIPE PER FILE
-recording @q
+Put deatils for each recipe one per file
